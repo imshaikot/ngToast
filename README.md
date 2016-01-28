@@ -23,5 +23,7 @@ ngToast.show("Your text!", 'top', 3000); // 1st param is your text to notify (re
   To test and deploy this sample project - just clone it and run
   
   `$ npm install`
+  
   `$ bower install`
+  
   `$ grunt`
